@@ -3,3 +3,5 @@ hello
 be friendly with Github!
 
 what is Branches?
+
+now, you understand Branches
