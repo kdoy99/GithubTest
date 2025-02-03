@@ -1,1 +1,3 @@
 hello
+
+be friendly with Github!
