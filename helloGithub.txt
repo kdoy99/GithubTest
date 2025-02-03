@@ -2,6 +2,14 @@ hello
 
 be friendly with Github!
 
+<<<<<<< HEAD
 
 
 ccccccccccccccccccccccccc
+=======
+<<<<<<< HEAD
+ddddddddddddddddddddddd
+=======
+eeeeeeeeeeeeeeeeeeeeeeee
+>>>>>>> mk5
+>>>>>>> mk4
